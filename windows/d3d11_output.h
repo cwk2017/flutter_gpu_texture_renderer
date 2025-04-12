@@ -1,6 +1,7 @@
 #ifndef FLUTTER_PLUGIN_D3D11_OUTPUT_PLUGIN_H_
 #define FLUTTER_PLUGIN_D3D11_OUTPUT_PLUGIN_H_
 
+#include <chrono>
 #include <atomic>
 #include <d3d11.h>
 #include <dxgi.h>
